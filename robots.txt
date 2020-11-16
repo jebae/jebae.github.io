@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jebae.github.io/sitemap.xml
+Host: https://jebae.github.io
