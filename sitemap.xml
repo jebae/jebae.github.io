@@ -6,6 +6,13 @@
 <url> <loc>https://jebae.github.io/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/ray-tracing-reflection-refraction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/ray-tracing-shadow</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/ray-tracing-object-normal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/ray-tracing-phong-reflection</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/ray-tracing-object-intersect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/ray-tracing-grid-property</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/ray-tracing-principle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/cramer-rule</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/opencl-basic-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/opencl-basic-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -57,6 +64,7 @@
 <url> <loc>https://jebae.github.io/category/미적분</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/코딩 더 매트릭스</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/tag/레이 트레이싱</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/알고리즘</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/OpenCL</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/C</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
