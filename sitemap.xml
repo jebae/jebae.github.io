@@ -7,6 +7,7 @@
 <url> <loc>https://jebae.github.io/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/technical-writing-groupware-proposal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/priority-queue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/buddy-block</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/ray-tracing-reflection-refraction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -65,6 +66,7 @@
 <url> <loc>https://jebae.github.io/category/최적화 문제</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/category/알고리즘</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/category/미적분</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/category/테크니컬 라이팅</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/category/자료구조</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/category/운영체제</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/코딩 더 매트릭스</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -78,6 +80,7 @@
 <url> <loc>https://jebae.github.io/tag/그래픽스</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/벡터</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/라그랑주 승수법</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jebae.github.io/tag/테크니컬 라이팅</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/힙</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/최대힙</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jebae.github.io/tag/최소힙</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
